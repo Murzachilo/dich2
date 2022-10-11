@@ -1,0 +1,13 @@
+﻿<Window x:Class="dich.Menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:dich"
+        mc:Ignorable="d"
+        Title="Menu" Height="450" Width="800">
+    <Grid>
+        <Button Content="Открыть какую-то таблицу " HorizontalAlignment="Left" Margin="127,0,0,0" VerticalAlignment="Center" Height="166" Width="477" FontSize="36" Click="Button_Click"/>
+
+    </Grid>
+</Window>
